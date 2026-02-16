@@ -1,54 +1,92 @@
-## Tech I ❤️
+<!-- ===================== -->
+<!--       BANNER         -->
+<!-- ===================== -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,wordpress,laravel,php,mysql,mongodb,aws,nodejs,express,js,ts,react,redux,graphql,git,github,figma,vscode,html,css,bootstrap,tailwind,docker,nginx" />
+<p align="center">
+  <img src="./banner.png" alt="Rahul Chaurasia | Senior Full Stack Developer" />
+</p>
+
+<h1 align="center">Rahul Chaurasia</h1>
+
+<h3 align="center">
+Senior Full Stack Developer • Laravel • Node.js • REST APIs • Microservices
+</h3>
+
+<p align="center">
+  <a href="mailto:rahulroot7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahulroot7%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-chaurasia-80371a194">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Chaurasia-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/rahulroot7">
+    <img src="https://img.shields.io/badge/GitHub-rahulroot7-black?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I love building **web applications that make a difference**
-- 🌐 Experienced in **JavaScript (ES6+), React, Tailwind CSS, Bootstrap**
-- ⚙️ Backend expertise in **Node.js, Express, PHP, Laravel**
-- 🛢️ Databases: **MongoDB, MySQL**
-- 🔐 Security enthusiast focused on **secure & user-friendly applications**
+- 💻 Full Stack Developer with **4+ years of experience** building backend-heavy, scalable web applications
+- ⚙️ Strong expertise in **Laravel & Node.js** for REST API and real-time systems
+- 🛢️ Deep experience in **database optimization, indexing & performance tuning**
+- 🔐 Focused on **secure authentication & authorization systems**
+- 👥 Experience leading teams and delivering **enterprise & government platforms**
 - 🔥 Fast learner with strong problem-solving skills
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech I Work With
 
-**Languages**
-- JavaScript (ES6+), PHP, SQL
-
-**Frontend**
-- React.js, HTML5, CSS3
-- Tailwind CSS, Bootstrap
-
-**Backend**
-- Node.js, Express.js
-- Laravel (PHP)
-
-**Databases**
-- MongoDB, MySQL
-
-**Other**
-- REST APIs
-- Chrome Extension Development
-- Basic DevOps & Security Practices
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,fastify,js,python,react,html,css" />
+</p>
 
 ---
 
-## 🛠 Tools
+## 🗄️ Databases
 
-- Git & GitHub
-- Docker
-- AWS
-- Postman
-- VS Code
-- Adobe Photoshop & Illustrator
-- Kali Linux, Burp Suite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+- Query Optimization & Indexing  
+- High-performance schema design  
+- Scalable data modeling  
+
+---
+
+## ⚙️ Backend & Architecture
+
+- REST API Design & Development  
+- JWT Authentication & Authorization  
+- MVC Architecture  
+- Microservices  
+- Real-Time Systems (WebSockets / Socket.IO)  
+- Secure Authentication Systems  
+
+---
+
+## 🚀 DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+- CI / CD Pipelines  
+- Dockerized Applications  
+- AWS Deployment & Scaling  
+- Production Server Management  
+
+---
+
+## 🛠 Tools & Workflow
+
+- Git & GitHub (Team workflows, PR reviews)
+- Postman (API testing)
+- Linux-based environments
+- Agile / Scrum methodology
 
 ---
 
@@ -72,9 +110,10 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-chaurasia-80371a194">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Chaurasia-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/rahulch95029881">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+⭐ *Open to exciting backend-heavy, scalable system challenges*
